@@ -1,0 +1,117 @@
+==================================================
+SYN PORT SCANNER REPORT
+Date: 2026-07-11 18:23:01.685888
+==================================================
+
+Target: 192.168.100.1
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.2
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.3
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.4
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.5
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.6
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.7
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.8
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.9
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.101
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.102
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.103
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.104
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
+Target: 192.168.100.133
+------------------------------
+Port 22    -> FILTERED
+Port 80    -> FILTERED
+Port 443   -> FILTERED
+Port 445   -> FILTERED
+Port 3389  -> FILTERED
+
